@@ -7,7 +7,6 @@ A Personal Finance Tracker built with Java, Spring Boot, MySQL, and JSP. Allows 
    **View & Delete Expenses**  
    **User Profile Management**  
    **Bootstrap UI for a clean and modern look**  
-   **Prevents users from accessing pages after logout**  
 
 ##  Tech Stack
 - **Backend:** Java, Spring Boot  
